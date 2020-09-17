@@ -1,5 +1,6 @@
 # Alien Invasion
- Game. First Project.
+ First project!! And it's a game! :space_invader:
 
  From "Python Crash Course", the book I read to learn Python.
- Still learning...
+ 
+ Still learning... :eyeglasses:
