@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7fa6444-8191-4375-8b5c-97b055f25b45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/---CODE---/alien_invasion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---CODE---/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/---CODE---/ship.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Alien-Invasion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,22 +103,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="474" y="145" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600433138389" />
-    <state width="1308" height="176" key="GridCell.Tab.0.bottom" timestamp="1600526652514">
+    <state width="1308" height="176" key="GridCell.Tab.0.bottom" timestamp="1600527204341">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600526652514" />
-    <state width="1308" height="176" key="GridCell.Tab.0.center" timestamp="1600526652514">
+    <state width="1308" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600527204341" />
+    <state width="1308" height="176" key="GridCell.Tab.0.center" timestamp="1600527204341">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600526652514" />
-    <state width="1308" height="176" key="GridCell.Tab.0.left" timestamp="1600526652514">
+    <state width="1308" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600527204341" />
+    <state width="1308" height="176" key="GridCell.Tab.0.left" timestamp="1600527204341">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600526652514" />
-    <state width="1308" height="176" key="GridCell.Tab.0.right" timestamp="1600526652514">
+    <state width="1308" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600527204341" />
+    <state width="1308" height="176" key="GridCell.Tab.0.right" timestamp="1600527204341">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600526652514" />
+    <state width="1308" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600527204341" />
     <state x="111" y="134" width="992" height="707" key="dock-window-1" timestamp="1600433367806">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

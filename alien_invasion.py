@@ -22,7 +22,6 @@ class AlienInvasion:
         while True:
             self._check_events()
             self._update_screen()
-            pygame.display.flip()
 
     def _check_events(self):
         """Respond for keypresses and mouse events."""
